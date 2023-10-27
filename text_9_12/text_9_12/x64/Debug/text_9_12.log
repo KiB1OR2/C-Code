@@ -1,3 +1,17 @@
 ﻿  test.c
-F:\C语言\C-Code\text_9_12\text_9_12\test.c(1,1): warning C4828: 文件包含在偏移 0xf5 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+F:\C语言\C-Code\text_9_12\text_9_12\test.c(1,1): warning C4828: 文件包含在偏移 0x257 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+F:\C语言\C-Code\text_9_12\text_9_12\test.c(8,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+F:\C语言\C-Code\text_9_12\text_9_12\test.c(8,9): message : 请考虑在格式字符串中使用“%zd”
+F:\C语言\C-Code\text_9_12\text_9_12\test.c(9,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+F:\C语言\C-Code\text_9_12\text_9_12\test.c(9,9): message : 请考虑在格式字符串中使用“%zd”
+F:\C语言\C-Code\text_9_12\text_9_12\test.c(10,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+F:\C语言\C-Code\text_9_12\text_9_12\test.c(10,9): message : 请考虑在格式字符串中使用“%zd”
+F:\C语言\C-Code\text_9_12\text_9_12\test.c(11,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+F:\C语言\C-Code\text_9_12\text_9_12\test.c(11,9): message : 请考虑在格式字符串中使用“%zd”
+F:\C语言\C-Code\text_9_12\text_9_12\test.c(12,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+F:\C语言\C-Code\text_9_12\text_9_12\test.c(12,9): message : 请考虑在格式字符串中使用“%zd”
+F:\C语言\C-Code\text_9_12\text_9_12\test.c(13,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+F:\C语言\C-Code\text_9_12\text_9_12\test.c(13,9): message : 请考虑在格式字符串中使用“%zd”
+F:\C语言\C-Code\text_9_12\text_9_12\test.c(14,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+F:\C语言\C-Code\text_9_12\text_9_12\test.c(14,9): message : 请考虑在格式字符串中使用“%zd”
   text_9_12.vcxproj -> F:\C语言\C-Code\text_9_12\x64\Debug\text_9_12.exe
